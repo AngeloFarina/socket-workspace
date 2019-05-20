@@ -9,7 +9,7 @@
 #include <string.h>
 
 #define LINE_LEGHT 128
-
+//commento aggiunto da GIT GUI
 int main(int argc, char **argv){
 
 	struct hostent *host;
